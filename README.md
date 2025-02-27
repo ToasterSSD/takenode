@@ -1,0 +1,2 @@
+# takenode
+take my node
